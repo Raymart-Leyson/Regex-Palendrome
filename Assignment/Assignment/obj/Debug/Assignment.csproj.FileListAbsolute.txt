@@ -1,0 +1,8 @@
+C:\Users\rayma\csit340-oop-Raymart-Leyson\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\rayma\csit340-oop-Raymart-Leyson\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\rayma\csit340-oop-Raymart-Leyson\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\rayma\csit340-oop-Raymart-Leyson\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\rayma\csit340-oop-Raymart-Leyson\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\rayma\csit340-oop-Raymart-Leyson\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\rayma\csit340-oop-Raymart-Leyson\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\rayma\csit340-oop-Raymart-Leyson\Assignment\Assignment\obj\Debug\Assignment.pdb
